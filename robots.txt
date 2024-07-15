@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drseoauto.github.io/sitemap.xml
